@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rendy Putra</h1>
 <h3 align="center">🖥️ Backend Developer | 🌐 Web Enthusiast | ⚙️ Tech Explorer</h3>
 
+---
+[![](https://visitcount.itsvg.in/api?id=rendy-ptr&icon=4&color=0)](https://visitcount.itsvg.in)
+
+
 - 🌱 I’m currently learning **Web3, Blockchain**
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **rendyp348@gmail.com**
