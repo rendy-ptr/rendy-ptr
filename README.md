@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rendy Putra</h1>
-<h3 align="center">Want to become a passionate full stack developer from Indonesia</h3>
+<h3 align="center">🖥️ Backend Developer | 🌐 Web Enthusiast | ⚙️ Tech Explorer🖥️ Backend Developer | 🌐 Web Enthusiast | ⚙️ Tech Explorer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rendy-ptr&label=Profile%20views&color=0e75b6&style=flat" alt="rendy-ptr" /> </p>
 
 
