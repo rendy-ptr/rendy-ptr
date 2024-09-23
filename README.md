@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rendy Putra</h1>
 <h3 align="center">🖥️ Backend Developer | 🌐 Web Enthusiast | ⚙️ Tech Explorer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rendy-ptr&label=Profile%20views&color=0e75b6&style=flat" alt="rendy-ptr" /> </p>
+[![](https://visitcount.itsvg.in/api?id=rendy-ptr&icon=4&color=0)](https://visitcount.itsvg.in)
 
 
 - 🌱 I’m currently learning **Web3, Blockchain**
