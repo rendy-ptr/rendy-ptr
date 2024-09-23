@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Web3, Blockchain**
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **rendyp348@gmail.com**
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Ambist ⚡**
 
 <div> <a href="https://github.com/rendy-ptr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/rndyptrr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
