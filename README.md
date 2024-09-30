@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=rendy-ptr&icon=4&color=0)](https://visitcount.itsvg.in)
 
 
-- 🌱 I’m currently learning **Web3, Blockchain**
+- 🌱 I’m currently learning **Data Analyst, Data Science**
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **rendyp348@gmail.com**
 - ⚡ Fun fact **I am Ambist ⚡**
