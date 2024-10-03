@@ -6,7 +6,6 @@
 
 
 - 🌱 I’m currently learning **Data Analyst, Data Science**
-- 💬 Ask me about **MERN**
 - 📫 How to reach me **rendyp348@gmail.com**
 - ⚡ Fun fact **I am Ambist ⚡**
 
