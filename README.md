@@ -2,7 +2,10 @@
 <h3 align="center">🖥️ Backend Developer | 📝 Data Science</h3>
 
 ---
-<img width="1200" height="180" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<div style="width: 100%; height: 150px; overflow: hidden; position: relative;">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+         style="position: absolute; top: -50px; width: 100%;">
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/Rendy.ptrr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/rndyptrr_) 
