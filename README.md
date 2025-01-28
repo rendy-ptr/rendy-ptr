@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rendy Putra</h1>
-<h3 align="center">🖥️ Backend Developer | 🌐 Web Enthusiast | ⚙️ Tech Explorer</h3>
+<h1 align="center">Hi, I'm Rendy Putra</h1>
+<h3 align="center">🖥️ Backend Developer | 📝 Data Science</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rendy-ptr&icon=4&color=0)](https://visitcount.itsvg.in)
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)">
 
 
 - 🌱 I’m currently learning **Data Analyst, Data Science**
