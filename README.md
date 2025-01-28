@@ -2,9 +2,9 @@
 <h3 align="center">🖥️ Backend Developer | 📝 Data Science</h3>
 
 ---
-<div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+<div style="width: 100%; height: 150px; display: flex; justify-content: center; align-items: center; overflow: hidden;">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-         style="height: 150px; width: auto;">
+         style="width: 100%; height: 150px; object-fit: cover;">
 </div>
 
 ## 🌐 Socials:
