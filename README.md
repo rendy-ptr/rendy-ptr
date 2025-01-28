@@ -34,9 +34,8 @@
   <img alt="github-snake" src="https://gist.githubusercontent.com/rendy-ptr/b73e83970b0f64742b3e9cada2a4870b/raw/71d19ec44fbe85cd6369f99639f39aa6f42d4489/snake-light.svg" />
 </picture>
 
-<div style="margin-top: 20px;">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&layout=compact&theme=radical" alt="rendy-ptr" />
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&layout=compact&theme=radical" alt="rendy-ptr" />
 
 <div align="center">
 <a href="https://github.com/rendy-ptr">
