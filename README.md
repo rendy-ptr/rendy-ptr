@@ -37,6 +37,7 @@
 <p>&nbsp;</p>
 <div style="display: flex; justify-content: center; align-items: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&layout=compact&theme=radical" alt="rendy-ptr" />
+  ---
 </div>
 
----
+
