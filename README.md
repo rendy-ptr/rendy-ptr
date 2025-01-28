@@ -39,14 +39,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&layout=compact&theme=radical" alt="rendy-ptr" />
 </div>
 
-<!-- Garis Horizontal -->
-<hr style="width: 80%; border: 1px solid #ccc; margin-top: 20px;"/>
-
-<!-- Bagian untuk stars dan stats -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://img.shields.io/github/stars/rendy-ptr?style=social" alt="stars" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rendy-ptr&theme=radical" height="180em" />
-</div>
-
 
 
