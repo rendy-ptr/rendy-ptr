@@ -35,7 +35,11 @@
 </picture>
 
 <p>&nbsp;</p>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&layout=compact&theme=radical" alt="rendy-ptr" />
+<div style="display: flex; align-items: center;">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&layout=compact&theme=radical" alt="rendy-ptr" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rendy-ptr&theme=radical" height="180em" />
+</div>
+
 
 <div align="center">
 <a href="https://github.com/rendy-ptr">
