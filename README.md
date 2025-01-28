@@ -37,5 +37,5 @@
 <p>&nbsp;</p>
 <div style="display: flex; justify-content: center; align-items: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&layout=compact&theme=radical" alt="rendy-ptr" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rendy-ptr&theme=radical" height="180em" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rendy-ptr&layout=compact&theme=radical" />
 </div>
