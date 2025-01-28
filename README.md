@@ -2,7 +2,7 @@
 <h3 align="center">🖥️ Backend Developer | 📝 Data Science</h3>
 
 ---
-<img src="https://i.ibb.co.com/bPHVnjD/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9-2.gif">
+<img src="https://i.ibb.co.com/Btx33Md/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9-3.gif">
 
 
 ## 🌐 Socials:
