@@ -30,9 +30,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rendy-ptr/rendy-ptr/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rendy-ptr/rendy-ptr/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/rendy-ptr/rendy-ptr/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://rendy-ptr.github.io/rendy-ptr/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://rendy-ptr.github.io/rendy-ptr/github-snake.svg" />
+  <img alt="github-snake" src="https://rendy-ptr.github.io/rendy-ptr/github-snake.svg" />
 </picture>
 </div>
 
