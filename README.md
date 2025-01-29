@@ -29,13 +29,12 @@
 </p>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/rendy-ptr/b73e83970b0f64742b3e9cada2a4870b/raw/71d19ec44fbe85cd6369f99639f39aa6f42d4489/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/rendy-ptr/b73e83970b0f64742b3e9cada2a4870b/raw/71d19ec44fbe85cd6369f99639f39aa6f42d4489/snake-light.svg" />
-    <img alt="github-snake" src="https://gist.githubusercontent.com/rendy-ptr/b73e83970b0f64742b3e9cada2a4870b/raw/71d19ec44fbe85cd6369f99639f39aa6f42d4489/snake-light.svg" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rendy-ptr/rendy-ptr/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rendy-ptr/rendy-ptr/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/rendy-ptr/rendy-ptr/blob/output/github-snake.svg" />
+</picture>
 </div>
-
 
 <br>
 <div align="center" style="display: flex; justify-content: center; ">
