@@ -38,5 +38,6 @@
 
 <br>
 <div align="center" style="display: flex; justify-content: center; ">
-
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=rendy-ptr&theme=algolia&show_icons=true&hide_border=false&count_private=true" alt="rendy-ptr's GitHub Stats" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&theme=algolia&show_icons=true&hide_border=false&layout=compact" alt="rendy-ptr's GitHub Stats" />
 </div>
