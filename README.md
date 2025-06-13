@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm <span style="color:#6366f1;">Rendy Putra</span> 👋</h1>
+<h1 align="center">Hi, I'm Rendy Putra👋</h1>
 <h3 align="center">🖥️ Fullstack Developer | 🤖 ML Engineer | 🌏 Based in Indonesia</h3>
 
 <p align="center">
