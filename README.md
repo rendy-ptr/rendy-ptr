@@ -17,8 +17,81 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 139.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 271 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+🌆 Daytime                229 commits         █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌃 Evening                160 commits         ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+🌙 Night                  205 commits         ████████░░░░░░░░░░░░░░░░░   33.12 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Tuesday                  148 commits         ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Wednesday                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Thursday                 73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Friday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Saturday                 88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               11 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/rendy-ptr/rendy-ptr/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/08/2025 08:19:53 UTC
 <!--END_SECTION:waka-->
 
 
