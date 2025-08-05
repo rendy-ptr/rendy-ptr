@@ -82,23 +82,6 @@
 <h3 align="center">💻 Weekly Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-🌆 Daytime                239 commits         ██████████░░░░░░░░░░░░░░░   38.00 % 
-🌃 Evening                160 commits         ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-🌙 Night                  205 commits         ████████░░░░░░░░░░░░░░░░░   32.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,7 +95,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2025 09:10:57 UTC
+ Last Updated on 05/08/2025 17:09:36 UTC
 <!--END_SECTION:waka-->
 
 ---
