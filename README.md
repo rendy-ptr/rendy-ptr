@@ -32,8 +32,8 @@
 <!-- STATS -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=rendy-ptr&theme=algolia&show_icons=true&hide_border=false&count_private=true" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&theme=algolia&show_icons=true&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rendy-ptr&theme=algolia&show_icons=true&hide_border=false&count_private=true&custom_height=195&custom_width=400" height="195" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&theme=algolia&show_icons=true&hide_border=false&layout=compact&size_weight=0.5&count_weight=0.5&custom_height=195&custom_width=400" height="195" width="400" />
 </p>
 
 ---
