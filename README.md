@@ -16,41 +16,6 @@
   </a>
 </p>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-🌆 Daytime                233 commits         █████████░░░░░░░░░░░░░░░░   37.40 % 
-🌃 Evening                160 commits         ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-🌙 Night                  205 commits         ████████░░░░░░░░░░░░░░░░░   32.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               11 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
-JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-```
-
-
-
-
- Last Updated on 05/08/2025 08:46:49 UTC
-<!--END_SECTION:waka-->
-
-
 ---
 
 <!-- TECH STACK -->
@@ -89,8 +54,8 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- STATS -->
 <div align="center">
-  
-## 📊 GitHub Statistics
+
+<h3 align="center">📊 GitHub Statistics</h3>
 <p>
   <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rendy-ptr&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" />
   <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&border_radius=15&langs_count=8&hide=html,css" alt="Top Languages" />
@@ -101,8 +66,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  
-## 📈 Contribution Activity
 
 ### 🐍 Contribution Snake</h3>
 <p align="center">
@@ -113,10 +76,46 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
   </picture>
 </p>
 
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/00f5ff/rendy-ptr" alt="GitHub Contribution Chart" width="100%"/>
-
 </div>
+
+---
+
+<!-- WAKATIME STATS -->
+<h3 align="center">💻 Weekly Development Breakdown</h3>
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+🌆 Daytime                233 commits         █████████░░░░░░░░░░░░░░░░   37.40 % 
+🌃 Evening                160 commits         ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+🌙 Night                  205 commits         ████████░░░░░░░░░░░░░░░░░   32.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               11 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
+
+
+
+
+ Last Updated on 05/08/2025 08:46:49 UTC
+<!--END_SECTION:waka-->
 
 ---
 
