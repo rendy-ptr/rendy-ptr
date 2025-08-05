@@ -17,54 +17,20 @@
 </p>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 139.2 kB Used in GitHub's Storage 
- > 
-> 🏆 277 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-🌆 Daytime                231 commits         █████████░░░░░░░░░░░░░░░░   37.20 % 
-🌃 Evening                160 commits         ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-🌙 Night                  205 commits         ████████░░░░░░░░░░░░░░░░░   33.01 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Tuesday                  150 commits         ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Wednesday                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Thursday                 73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Friday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Saturday                 88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+🌆 Daytime                233 commits         █████████░░░░░░░░░░░░░░░░   37.40 % 
+🌃 Evening                160 commits         ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+🌙 Night                  205 commits         ████████░░░░░░░░░░░░░░░░░   32.91 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -80,12 +46,8 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/rendy-ptr/rendy-ptr/main/assets/bar_graph.png)
-
-
- Last Updated on 05/08/2025 08:37:40 UTC
+ Last Updated on 05/08/2025 08:46:49 UTC
 <!--END_SECTION:waka-->
 
 
