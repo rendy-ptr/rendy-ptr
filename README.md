@@ -21,25 +21,57 @@
 ---
 
 <!-- TECH STACK -->
-<h3 align="center">🧰 My Tech Stack</h3>
+<div align="center">
+  
+## 🛠️ Technology Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,php,laravel,nodejs,express,python,fastapi,opencv,mongodb,mysql,postgres,prisma,docker,postman&perline=9" alt="Tech Stack Icons" />
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,figma&theme=dark" />
 </p>
+
+### ⚙️ Backend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,python,fastapi,flask,php,laravel,go&theme=dark" />
+</p>
+
+### 🤖 AI/ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase,azure,prisma&theme=dark" />
+</p>
+
+### 🔧 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman&theme=dark" />
+</p>
+
+</div>
 
 ---
 
 <!-- STATS -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rendy-ptr&theme=algolia&show_icons=true&hide_border=false&count_private=true&custom_height=195&custom_width=400" height="195" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&theme=algolia&show_icons=true&hide_border=false&layout=compact&size_weight=0.5&count_weight=0.5&custom_height=195&custom_width=400" height="195" width="400" />
+<div align="center">
+  
+## 📊 GitHub Statistics
+<p>
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rendy-ptr&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&border_radius=15&langs_count=8&hide=html,css" alt="Top Languages" />
 </p>
+</div>
 
 ---
 
 <!-- CONTRIBUTION GRAPH -->
-<h3 align="center">🐍 Contribution Snake</h3>
+<div align="center">
+  
+## 📈 Contribution Activity
+
+### 🐍 Contribution Snake</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://rendy-ptr.github.io/rendy-ptr/github-snake-dark.svg" />
@@ -47,6 +79,11 @@
     <img alt="GitHub Contribution Graph" src="https://rendy-ptr.github.io/rendy-ptr/github-snake.svg" />
   </picture>
 </p>
+
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/00f5ff/rendy-ptr" alt="GitHub Contribution Chart" width="100%"/>
+
+</div>
 
 ---
 
