@@ -56,10 +56,8 @@
 <div align="center">
 
 <h3 align="center">📊 GitHub Statistics</h3>
-<p>
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rendy-ptr&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" />
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&border_radius=15&langs_count=8&hide=html,css" alt="Top Languages" />
-</p>
+<img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rendy-ptr&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" />
+<img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendy-ptr&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&border_radius=15&langs_count=8&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
