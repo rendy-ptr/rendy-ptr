@@ -124,8 +124,8 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <!-- CONTACT -->
 <h3 align="center">📫 Let's Connect</h3>
 <p align="center">
-  <a href="mailto:rendyp348@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rendyp348@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rendyworksspace@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rendyworksspace@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rendy-putra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-rendy--putra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
