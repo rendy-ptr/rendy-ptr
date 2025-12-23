@@ -65,12 +65,12 @@
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
-### 🐍 Contribution Snake</h3>
+### Contribution </h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://rendy-ptr.github.io/rendy-ptr/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://rendy-ptr.github.io/rendy-ptr/github-snake.svg" />
-    <img alt="GitHub Contribution Graph" src="https://rendy-ptr.github.io/rendy-ptr/github-snake.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rendy-ptr/rendy-ptr/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rendy-ptr/rendy-ptr/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rendy-ptr/rendy-ptr/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
