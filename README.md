@@ -13,7 +13,7 @@
 <!-- PORTFOLIO -->
 <h3 align="center">🚀 My Personal Website</h3>
 <p align="center">
-  <a href="https://www.rndyptr.my.id" target="_blank">
+  <a href="https://portfolio.rendydev.net" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-rndyptr.my.id-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
