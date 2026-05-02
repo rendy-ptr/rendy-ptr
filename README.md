@@ -14,7 +14,7 @@
 <h3 align="center">🚀 My Personal Website</h3>
 <p align="center">
   <a href="https://portfolio.rendydev.net" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-rndyptr.my.id-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-portfolio.rendydev.net-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
