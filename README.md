@@ -98,11 +98,10 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 36 mins      ███████████████████████░░   93.77 % 
-PHP                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               9 hrs 53 mins       ████████████████████████░   97.43 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +117,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2026 17:43:56 UTC
+ Last Updated on 12/07/2026 17:46:43 UTC
 <!--END_SECTION:waka-->
 
 ---
