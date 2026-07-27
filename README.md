@@ -84,6 +84,8 @@
 <h3 align="center">💻 Weekly Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2033%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -101,6 +103,12 @@
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -114,7 +122,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 17:49:47 UTC
+ Last Updated on 27/07/2026 18:17:27 UTC
 <!--END_SECTION:waka-->
 
 ---
